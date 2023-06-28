@@ -4,7 +4,7 @@
 Bem-vindo ao repositório do LAPES, um grupo de estudos dedicado à aplicação dos conceitos da Engenharia de Software no desenvolvimento de softwares de qualidade. Este repositório contém informações importantes sobre o grupo, seus membros e como entrar em contato conosco.
 
 ### Sobre o LAPES
-O LAPES (Laboratório de Aplicações em Engenharia de Software) é um grupo de estudos composto por 8 alunos e 2 professores interessados em aprofundar seus conhecimentos e habilidades em Engenharia de Software. Nós nos reunimos regularmente para discutir e aplicar práticas modernas de desenvolvimento de software em projetos reais.
+O LAPES (Laboratório de Pesquisa de Engenharia de Software) é um grupo de estudos composto por 8 alunos e 2 professores interessados em aprofundar seus conhecimentos e habilidades em Engenharia de Software. Nós nos reunimos regularmente para discutir e aplicar práticas modernas de desenvolvimento de software em projetos reais.
 
 ### Objetivos
 Os principais objetivos do LAPES são:
