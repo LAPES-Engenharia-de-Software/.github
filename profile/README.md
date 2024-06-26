@@ -1,10 +1,10 @@
 ![image](https://github.com/LAPES-Engenharia-de-Software/.github/assets/67487494/fadba69b-3f2f-440d-a695-77b756033884)
-## LAPES - Laboratório de Pesquisa de Engenharia de Software
+## LAPES - Laboratório de Pesquisas de Engenharia de Software
 
-Bem-vindo ao repositório do LAPES, um grupo de estudos dedicado à aplicação dos conceitos da Engenharia de Software no desenvolvimento de softwares de qualidade. Este repositório contém informações importantes sobre o grupo, seus membros e como entrar em contato conosco.
+Bem-vindo ao repositório do LAPES, um grupo de estudos dedicado à aplicação dos conceitos da Engenharia de Software. Este repositório contém informações importantes sobre o grupo, seus membros e como entrar em contato conosco.
 
 ### Sobre o LAPES
-O LAPES (Laboratório de Pesquisa de Engenharia de Software) é um grupo de estudos composto por 8 alunos e 2 professores interessados em aprofundar seus conhecimentos e habilidades em Engenharia de Software. Nós nos reunimos regularmente para discutir e aplicar práticas modernas de desenvolvimento de software em projetos reais.
+O LAPES (Laboratório de Pesquisas de Engenharia de Software) é um grupo de estudos composto por discentes, docentes e egressos do Centro Universitário do Estado do Pará (CESUPA) interessados em aprofundar seus conhecimentos e habilidades em Engenharia de Software. Nós nos reunimos regularmente para discutir e aplicar práticas modernas de desenvolvimento de software em projetos reais.
 
 ### Objetivos
 Os principais objetivos do LAPES são:
@@ -14,22 +14,66 @@ Os principais objetivos do LAPES são:
 - Promover a colaboração e o compartilhamento de conhecimento entre os membros do grupo.
 - Desenvolver softwares de qualidade que atendam às necessidades dos usuários.
 
-### Membros
-O LAPES é composto pelos seguintes membros:
+## Professores
+- **Prof. Isaac Elgrably** [GitHub](https://github.com/Elgrably) [LinkedIn](https://www.linkedin.com/in/isaac-elgrably-8a3440115/) [Lattes](http://lattes.cnpq.br/7590598824563858)
+  - **Tópicos de Interesse**: 
+    - Software Engineering
+    - Data Science
 
-#### Alunos
-1. [Fábio Neves](https://github.com/FabioNeves00)
-2. [João Cardoso](https://github.com/JoãoCardoso00)
-3. [Ryan Oliveira](https://github.com/ryanolivrdev)
-4. [Caio Johnston](https://github.com/CaioJohnston)
-5. [Marília Barbosa](https://github.com/mariliabarbosa)
-6. [José Nonato](https://github.com/Jose-Nonato)
-7. [Marco Proença](https://github.com/Ninniet5670)
-8. [Rodrigo Franco](https://github.com/RCFranco)
+- **Prof. Ricardo Melo** [LinkedIn](https://www.linkedin.com/in/ricardorodrigom/) [Lattes](https://www.linkedin.com/in/ricardorodrigom/)
+  - **Tópicos de Interesse**:
+    - Software Engineering
+    - Agile Methodologies
 
-#### Professores
-- [Prof. Isaac Elgrably](https://github.com/Elgrably)
-- Prof. Ricardo Melo
+## Gerentes
+- **Bruno Kalel** [GitHub]() [LinkedIn]() [Lattes]()
+  - **Tópicos de Interesse**: 
+  - **Projetos Atuais**: 
+
+- **Caio Johnston** [GitHub](https://github.com/CaioJohnston) [LinkedIn](https://www.linkedin.com/in/caio-johnston/) [Lattes](http://lattes.cnpq.br/1863233090462573)
+  - **Tópicos de Interesse**:
+    - Data Science
+    - Machine Learning
+    - Big Data
+  - **Projetos Atuais**: 
+    - WorldClim (Modelos climáticos aplicados à Amazônia)
+
+- **Fábio Neves** [GitHub](https://github.com/FabioNeves00) [LinkedIn]() [Lattes]()
+  - **Tópicos de Interesse**: 
+  - **Projetos Atuais**: 
+
+- **Marco Proença** [GitHub](https://github.com/Ninniet5670) [LinkedIn](https://www.linkedin.com/in/marco-aur%C3%A9lio-proen%C3%A7a-neto-629008210/) [Lattes]()
+  - **Tópicos de Interesse**:
+    - Data Engineering
+    - Data Science
+    - Data Analysis
+  - **Projetos Atuais**: 
+    - WorldClim (Modelos climáticos aplicados à Amazônia)
+
+- **Mel Leão** [GitHub]() [LinkedIn]() [Lattes]()
+  - **Tópicos de Interesse**: 
+  - **Projetos Atuais**: 
+
+- **Rafael Maranhão** [GitHub]() [LinkedIn](https://www.linkedin.com/in/rafael-maranhao-juliano/) [Lattes]()
+  - **Tópicos de Interesse**:
+    - Machine Learning Engineering
+    - Deep Learning
+    - MLOps
+  - **Projetos Atuais**: 
+
+- **Rodrigo Franco** [GitHub]() [LinkedIn]() [Lattes]()
+  - **Tópicos de Interesse**: 
+  - **Projetos Atuais**: 
+
+- **Ryan Oliveira** [GitHub](https://github.com/ryanolivrdev) [LinkedIn]() [Lattes]()
+  - **Tópicos de Interesse**: 
+  - **Projetos Atuais**: 
+
+## Egressos
+- **José Nonato** [GitHub](https://github.com/Jose-Nonato) [LinkedIn]() [Lattes]()
+
+- **Marília Barbosa** [GitHub](https://github.com/mariliabarbosa) [LinkedIn]() [Lattes]()
+
 
 ### Projetos
 O LAPES está envolvido em vários projetos de desenvolvimento de software. Alguns dos projetos em andamento incluem:
