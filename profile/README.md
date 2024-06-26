@@ -20,7 +20,7 @@ Os principais objetivos do LAPES são:
     - Software Engineering
     - Data Science
 
-- **Prof. Ricardo Melo** [LinkedIn](https://www.linkedin.com/in/ricardorodrigom/) [Lattes](https://www.linkedin.com/in/ricardorodrigom/)
+- **Prof. Ricardo Melo** [GitHub](https://github.com/ricardorodrigomm) [LinkedIn](https://www.linkedin.com/in/ricardorodrigom/) [Lattes](https://www.linkedin.com/in/ricardorodrigom/)
   - **Tópicos de Interesse**:
     - Software Engineering
     - Agile Methodologies
