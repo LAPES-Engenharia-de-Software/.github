@@ -18,10 +18,6 @@ Os principais objetivos do LAPES são:
 [![Static Badge](https://img.shields.io/badge/Elgrably-%23ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717)](https://www.github.com/Elgrably)
 [![Static Badge](https://img.shields.io/badge/isaac--elgrably--8a3440115-%23ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2)](https://www.linkedin.com/in/isaac-elgrably-8a3440115)
 
-### Pedro Girotto
-[![Static Badge](https://img.shields.io/badge/PedroGirotto-%23ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717)](https://www.github.com/PedroGirotto)
-[![Static Badge](https://img.shields.io/badge/pedro--girotto--713b85131-%23ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2)](https://www.linkedin.com/in/pedro-girotto-713b85131)
-
 ### Ricardo Melo
 [![Static Badge](https://img.shields.io/badge/ricardorodrigomm-%23ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717)](https://www.github.com/ricardorodrigomm)
 [![Static Badge](https://img.shields.io/badge/ricardorodrigom-%23ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2)](https://www.linkedin.com/in/ricardorodrigom)
