@@ -42,7 +42,7 @@ Os principais objetivos do LAPES são:
   - **Tópicos de Interesse**: 
   - **Projetos Atuais**: 
 
-- **Marco Proença** [GitHub](https://github.com/Ninniet5670) [LinkedIn](https://www.linkedin.com/in/marco-aur%C3%A9lio-proen%C3%A7a-neto-629008210/) [Lattes]()
+- **Marco Proença** [GitHub](https://github.com/Ninniet5670) [LinkedIn](https://www.linkedin.com/in/marco-aur%C3%A9lio-proen%C3%A7a-neto-629008210/) [Lattes](http://lattes.cnpq.br/0535353296172236)
   - **Tópicos de Interesse**:
     - Data Engineering
     - Data Science
@@ -54,7 +54,7 @@ Os principais objetivos do LAPES são:
   - **Tópicos de Interesse**: 
   - **Projetos Atuais**: 
 
-- **Rafael Maranhão** [GitHub]() [LinkedIn](https://www.linkedin.com/in/rafael-maranhao-juliano/) [Lattes]()
+- **Rafael Maranhão** [GitHub](https://github.com/gabipasse) [LinkedIn](https://www.linkedin.com/in/rafael-maranhao-juliano/) [Lattes](http://lattes.cnpq.br/8114253255875215)
   - **Tópicos de Interesse**:
     - Machine Learning Engineering
     - Deep Learning
